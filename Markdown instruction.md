@@ -121,3 +121,5 @@ Markdown поддерживает упрощённый порядок автом
 <https://github.com/GnuriaN/format-README/blob/master/emoji.md/> - список работающих эмодзи.
 
 <https://habr.com/ru/post/652867/> - подробно о диаграммах Mermaid.js.
+
+<https://habr.com/ru/post/698702/> - 28 расширений VS Code для разработки документации.
